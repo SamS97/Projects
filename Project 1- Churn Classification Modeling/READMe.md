@@ -1,0 +1,1 @@
+In this project, I attempt to model the churn of bank customers. I use classification to predict which customers will likely leave the bank and who is likely to stay. This folder contains the project report and the dataset used.
