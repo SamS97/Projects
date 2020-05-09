@@ -1,3 +1,3 @@
 # Data-Science-Projects
 
-A portfolio of the code used for my data science projects posted on my website- Data Science in College.
+A portfolio of my data science projects. I am a graduate student at Arizona State University studying Computer Science with aa concentration in Big Data Systems.
