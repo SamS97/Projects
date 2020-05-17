@@ -6,7 +6,7 @@ FILES:
 
 - CollectingVWAPBitcoinData.py- This is how I collected the Bitcoin price data. I used Chainrider Finance's API to accomplish this.
 
-- FINALLSTMDatasetBitcoin.xlsx- This is the dataset I fed into my LSTM Neural Network. It includes data on Volume-Average Weighted Price and sentiment analysis data on headlines and user reactions.
+- FINALLSTMDatasetBitcoin.xlsx- This is the dataset I fed into my LSTM Neural Network. It includes data on Volume-Average Weighted Price and sentiment analysis data on headlines and user reactions. This Excel file is available for download (.xlsx).
 
 - Honors Thesis Presentation- Sam Steinberg.pdf- This is my powerpoint presentation I displayed during my thesis defense. I recommend viewing it to understand the project better.
 
