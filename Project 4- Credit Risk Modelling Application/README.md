@@ -1,1 +1,1 @@
-In this project, I built a Python model that will help determine whether a client is eligible or not eligible for a loan. 
+The goal of this project was to create a program that takes in information about a loan applicant, evaluates their credit risk and outputs whether the bank should approve the loan or not. I ran multiple classification models, eventually tuning a SVM classifier that had a 76% accuracy rate. Finally, I created a simple program that outputs whether the bank should approve a loan for a new applicant. 
