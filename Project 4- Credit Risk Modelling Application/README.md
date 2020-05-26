@@ -2,4 +2,4 @@ The goal of this project was to create a program that takes in information about
 
 The first part walks through my solution, including data preprocessing, exploration, and model comparison. In the next section I tune my final model. Lastly, there is a simple program at the bottom. You can enter data about a new customer and the program will output whether they quality for a loan or not. 
 
-The dataset is also provided in this folder. 
+The dataset is also provided in this folder. The link to the original dataset can be found here: https://www.kaggle.com/marcelotc/german-credit-risk
