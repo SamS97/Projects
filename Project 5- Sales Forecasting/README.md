@@ -4,5 +4,5 @@ Conclusions:
 
 - Rossmann does not receive many customers on Sundays, indicating they might make more profit by closing on that day
 - Data is seasonal, sales increase during the holiday season. They then drop off at the beginning of the year, increase through spring and start to decline at the beginnning of July
--Sales steadily increasing since the end of 2013, expected to continue into 2016 with a confidence interval of 95%
+- Sales steadily increasing since the end of 2013, expected to continue into 2016 with a confidence interval of 95%
 
