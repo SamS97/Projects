@@ -1,1 +1,1 @@
-
+For more information on this project, please refer to the "CGM prediction Project.docx" file. This was a group project where we had to write four algorithms, but I was tasked with just writing the RNN algorithm. To see the compete report of this project, please refer to the "CGM_Prediction_Write_Up-1.pdf" file.
