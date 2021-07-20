@@ -1,7 +1,7 @@
 # Sam Steinberg
-#### Aspiring Data Analyst
+#### Aspiring Python Developer/Data Analyst
 
-This repo contains a portfolio of my financial data science projects. The projects found here are focused on adding value to a business, whether that be through customer acquisition, evaluating an investment opportunity, or predicting the value of future assets. Enjoy!
+This repo contains a portfolio of my Python projects. The projects found here range from cloud application development, data monitor tracking, and a variety of machine learning tasks such as: regression, classification, clustering, and forecasting.
 
 #### Contact: 
 - Email- samsteinberg97@gmail.com
